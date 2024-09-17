@@ -1,32 +1,47 @@
 # Hi there! 👋 I'm Anand Thakkar
 
-## 🚀 About Me
+## 👨‍🔬 About Me
 
-I'm a passionate **AI/ML Researcher** with a focus on **Deep Learning** and **Large Language Models (LLMs)**. My journey into Artificial Intelligence revolves around exploring the latest trends in machine learning, understanding the underlying architectures, and pushing the boundaries of what's possible with deep learning techniques.
+I am an aspiring **AI/ML Researcher** with a keen interest in advancing **Deep Learning** and **Large Language Models (LLMs)**. My primary focus is on conducting impactful research that pushes the boundaries of artificial intelligence. With a background in **Computer Science and Engineering**, I am constantly seeking opportunities to contribute to cutting-edge research, particularly through internships in **AI/ML research labs**.
 
-### 🔭 Current Focus
+### 🔬 Research Interests
 
-- Researching **Deep Learning** techniques for solving complex problems.
-- Experimenting with **Large Language Models (LLMs)** and their applications in natural language processing.
-- Learning the **Machine Learning Specialization** from **Coursera**, to deepen my understanding of foundational ML concepts.
+- **Deep Learning**: Working on novel architectures to improve model performance in various domains, including computer vision and natural language processing.
+- **Large Language Models (LLMs)**: Exploring the power and limitations of LLMs, focusing on tasks like language understanding, generation, and fine-tuning for specific applications.
+- **High-Frequency Trading Data Analysis**: Leveraging machine learning techniques for analyzing real-time financial data and enhancing predictive models in high-stakes environments.
 
-### 🌱 I’m Learning
+### 🧑‍🏫 Education
 
-- Advanced concepts in **Transformer architectures**.
-- Exploring **Neural Networks** for classifying signals like **ECG** data and comparing them with modern models.
-- Diving deep into **Data Structures and Algorithms (DSA)** to improve my problem-solving skills.
+- **B.Tech in Computer Science & Engineering**.
+- Currently enrolled in the **Machine Learning Specialization** on Coursera, strengthening my knowledge of core machine learning concepts and methodologies.
 
-### 👨‍💻 Projects & Research
+### 📚 Current Research Projects
 
-- 🔍 **Violent Activity Detection** using **LSTM** and **ConvLSTM** to improve public safety systems.
-- 💡 **ECG Signal Classification** using deep learning, contributing to healthcare technology advancements.
-- 📊 **High-Frequency Trading Data Analysis** to gain insights into financial trends and trading behaviors.
+- **Violent Activity Detection** using **LSTM, LRCN, and ConvLSTM**: Designing models to improve public safety by detecting violent activities in real-time from video feeds.
+- **ECG Signal Classification**: Developing a deep learning model for classifying ECG signals into four categories and comparing its performance with transformer-based approaches to advance healthcare technology.
+- **High-Frequency Trading Analysis**: Studying market patterns using machine learning to detect trends and improve decision-making in financial trading systems.
 
-### 🎯 My Goals
+### 🌱 Research Goals
 
-- Intern at **Google DeepMind** and eventually work there, contributing to cutting-edge AI advancements.
-- Solve **Codeforces** problem sets to deepen my understanding of DSA and become an efficient problem solver.
+- Intern at a leading AI research organization like **Google DeepMind** to gain hands-on experience in solving real-world problems through advanced AI techniques.
+- Continue publishing research in the areas of **Deep Learning** and **Natural Language Processing** to contribute to the broader AI community.
 
-### 🤝 Let's Collaborate
+### 🧠 What I'm Learning
 
-I'm always excited to work on innovative projects in the field of **AI/ML**, particularly in **Deep Learning** and **Natural Language Processing**. If you're working on something exciting, feel free to reach out!
+- **Advanced Neural Networks** and their applications in signal processing and image recognition.
+- **Transformer Architectures** and their influence on state-of-the-art NLP models.
+- Enhancing my proficiency in **Data Structures and Algorithms (DSA)** to solve complex problems efficiently.
+
+### 🛠 Tools & Techniques
+
+- **Programming Languages**: Python, TensorFlow, PyTorch, Keras
+- **Research Tools**: Jupyter, LaTeX, Git
+- **Libraries/Frameworks**: NumPy, SciPy, OpenCV, Hugging Face
+
+### 🤝 Looking for Collaboration
+
+I am actively seeking **research intern roles** where I can apply my knowledge of **Deep Learning** and **Machine Learning**. If you are working on exciting research or have internship opportunities, I would love to connect!
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anandthakkar-8a54s/)
