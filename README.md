@@ -5,10 +5,10 @@
 I am an aspiring **AI/ML Researcher** with a keen interest in advancing **Deep Learning** and **Large Language Models (LLMs)**. My primary focus is on conducting impactful research that pushes the boundaries of artificial intelligence. With a background in **Computer Science and Engineering**, I am constantly seeking opportunities to contribute to cutting-edge research, particularly through internships in **AI/ML research labs**.
 
 ### 🔬 Research Interests
-
 - **Deep Learning**: Working on novel architectures to improve model performance in various domains, including computer vision and natural language processing.
 - **Large Language Models (LLMs)**: Exploring the power and limitations of LLMs, focusing on tasks like language understanding, generation, and fine-tuning for specific applications.
 - **High-Frequency Trading Data Analysis**: Leveraging machine learning techniques for analyzing real-time financial data and enhancing predictive models in high-stakes environments.
+- **Connectomics**: Studying the comprehensive mapping of neural connections in the brain using advanced imaging techniques and machine learning algorithms to understand brain structure and function.
 
 ### 🧑‍🏫 Education
 
