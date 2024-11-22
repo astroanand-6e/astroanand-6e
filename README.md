@@ -7,7 +7,6 @@ I am an aspiring **AI/ML Researcher** with a keen interest in advancing **Deep L
 ### 🔬 Research Interests
 - **Deep Learning**: Working on novel architectures to improve model performance in various domains, including computer vision and natural language processing.
 - **Large Language Models (LLMs)**: Exploring the power and limitations of LLMs, focusing on tasks like language understanding, generation, and fine-tuning for specific applications.
-- **High-Frequency Trading Data Analysis**: Leveraging machine learning techniques for analyzing real-time financial data and enhancing predictive models in high-stakes environments.
 - **Connectomics**: Studying the comprehensive mapping of neural connections in the brain using advanced imaging techniques and machine learning algorithms to understand brain structure and function.
 
 ### 🧑‍🏫 Education
@@ -17,9 +16,7 @@ I am an aspiring **AI/ML Researcher** with a keen interest in advancing **Deep L
 
 ### 📚 Current Research Projects
 
-- **Violent Activity Detection** using **LSTM, LRCN, and ConvLSTM**: Designing models to improve public safety by detecting violent activities in real-time from video feeds.
 - **ECG Signal Classification**: Developing a deep learning model for classifying ECG signals into four categories and comparing its performance with transformer-based approaches to advance healthcare technology.
-- **High-Frequency Trading Analysis**: Studying market patterns using machine learning to detect trends and improve decision-making in financial trading systems.
 
 ### 🌱 Research Goals
 
