@@ -2,32 +2,38 @@
 
 ## 👨‍🔬 About Me
 
-I am an aspiring **AI/ML Researcher** with a keen interest in advancing **Deep Learning** and **Large Language Models (LLMs)**. My primary focus is on conducting impactful research that pushes the boundaries of artificial intelligence. With a background in **Computer Science and Engineering**, I am constantly seeking opportunities to contribute to cutting-edge research, particularly through internships in **AI/ML research labs**.
+I am an aspiring **AI/ML Researcher** driven by a deep fascination with understanding complex systems, from **Deep Learning architectures** to the intricate workings of the **human brain**. My research interests are centered around **Deep Learning** and **Large Language Models (LLMs)**, with a particular focus on **mechanistic interpretability** and drawing inspiration from **connectomics**.  With a background in **Computer Science and Engineering**, I am eager to contribute to cutting-edge research and am actively seeking **AI/ML research internships** to further my understanding and make impactful contributions to the field.
 
 ### 🔬 Research Interests
-- **Deep Learning**: Working on novel architectures to improve model performance in various domains, including computer vision and natural language processing.
-- **Large Language Models (LLMs)**: Exploring the power and limitations of LLMs, focusing on tasks like language understanding, generation, and fine-tuning for specific applications.
-- **Connectomics**: Studying the comprehensive mapping of neural connections in the brain using advanced imaging techniques and machine learning algorithms to understand brain structure and function.
+
+- **Mechanistic Interpretability**: Passionate about understanding the inner workings of complex AI systems and biological neural networks. I believe that truly understanding how these systems arrive at their outputs is crucial for advancing AI and ensuring its safety and reliability.
+- **Human Brain & Connectomics**: Captivated by the design and architecture of the human brain and inspired by advancements in connectomics. I am exploring how insights from neuroscience and the human connectome can inform and inspire the next generation of AI architectures, potentially leading to breakthroughs in artificial neural networks.
+- **Generative Models and Architectural Complexity**:  Fascinated by the architectural innovations in generative models like Stable Diffusion, particularly their use of VAEs and UNet. I am eager to contribute to the development and understanding of these increasingly intricate AI systems.
+- **Deep Learning Architectures**:  Developing and understanding novel deep learning architectures, including ResNet, LSTM, Bi-LSTM, and UNet, to improve model performance in various domains such as computer vision and natural language processing.
+- **Large Language Models (LLMs)**: Exploring the capabilities and limitations of LLMs, with a focus on language understanding, generation, and fine-tuning for specific applications.
 
 ### 🧑‍🏫 Education
 
 - **B.Tech in Computer Science & Engineering**.
-- Currently enrolled in the **Machine Learning Specialization** on Coursera, strengthening my knowledge of core machine learning concepts and methodologies.
+- Completed the **Machine Learning Specialization** on Coursera, strengthening my knowledge of core machine learning concepts and methodologies.
 
 ### 📚 Current Research Projects
 
 - **ECG Signal Classification**: Developing a deep learning model for classifying ECG signals into four categories and comparing its performance with transformer-based approaches to advance healthcare technology.
+- **AI-Powered Coronary Artery Stenosis Detection System [In Progress]**:  Developing a system using state-of-the-art deep learning models and image processing techniques to segment coronary arteries and detect stenosis, contributing to the study and diagnosis of Coronary Artery Disease (CAD).
+- **LLM Semantic Equivalence Research [In Progress]**: Independently researching how LLMs process semantically equivalent prompts across languages and code-switched languages (Hinglish), investigating whether they understand semantic equivalence in a human-like manner.
 
 ### 🌱 Research Goals
 
-- Intern at a leading AI research organization like **Google DeepMind** to gain hands-on experience in solving real-world problems through advanced AI techniques.
-- Continue publishing research in the areas of **Deep Learning** and **Natural Language Processing** to contribute to the broader AI community.
+- Intern at a leading AI research organization like **Google DeepMind** to gain hands-on experience in solving real-world problems through advanced AI techniques and contribute to research in areas like mechanistic interpretability and brain-inspired AI.
+- Continue publishing research in the areas of **Deep Learning**, **Natural Language Processing**, and **Mechanistic Interpretability** to contribute to the broader AI community.
 
 ### 🧠 What I'm Learning
 
-- **Advanced Neural Networks** and their applications in signal processing and image recognition.
-- **Transformer Architectures** and their influence on state-of-the-art NLP models.
+- **Deep Learning Specialization** from DeepLearning.AI, focusing on advanced deep learning concepts and methodologies.
+- **Implementing Attention in Transformers: Concept and Code**, a short course by DeepLearning.AI, to gain practical experience with transformer architectures and attention mechanisms.
 - Enhancing my proficiency in **Data Structures and Algorithms (DSA)** to solve complex problems efficiently.
+- Deepening my understanding of **Connectomics** and **Neuroscience** to inspire novel AI approaches.
 
 ### 🛠 Tools & Techniques
 
@@ -37,7 +43,7 @@ I am an aspiring **AI/ML Researcher** with a keen interest in advancing **Deep L
 
 ### 🤝 Looking for Collaboration
 
-I am actively seeking **research intern roles** where I can apply my knowledge of **Deep Learning** and **Machine Learning**. If you are working on exciting research or have internship opportunities, I would love to connect!
+I am actively seeking **research intern roles** where I can apply my knowledge of **Deep Learning** and **Machine Learning**, particularly in areas related to **mechanistic interpretability**, **brain-inspired AI**, and **generative models**. If you are working on exciting research or have internship opportunities, I would love to connect!
 
 ### 📫 Let's Connect
 
